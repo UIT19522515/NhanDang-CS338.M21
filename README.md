@@ -21,7 +21,7 @@
 
 ## GIẢNG VIÊN HƯỚNG DẪN
 <a name="giangvien"></a>
-* Thầy. **Đỗ Văn Tiến** 
+* Thầy **Đỗ Văn Tiến** 
 
 ## THÀNH VIÊN NHÓM
 <a name="thanhvien"></a>
